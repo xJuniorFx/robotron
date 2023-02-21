@@ -2,7 +2,8 @@
 
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
 <p align="center">Uma página para poder construir o seu robo para lutar contra o mal.</p>
-<p align="center">Neste projeto eu aprendi</p>
+
+## Oque eu aprendi
 <ul>
     <li>Buscar elementos e interagir com eles</li>
     <li>Manipular o evento click, para atualizar as estatisticas do robo</li>
